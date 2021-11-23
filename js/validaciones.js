@@ -1,6 +1,8 @@
 /**
  * validaciones.js
  * Examen de validaciones
+ * @author Julio Antonio Ramos Gago
+ * @license GPL v3
  */
 'use strict'
 window.onload=iniciar
